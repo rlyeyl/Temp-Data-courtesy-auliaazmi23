@@ -1,211 +1,44 @@
 [
-  { "group": "ARID1A", "variable": "likely_benign", "value": null },
   { "group": "ARID1A", "variable": "likely_pathogenic", "value": 0.6238 },
-  { "group": "ARID1A", "variable": "ambiguous", "value": null },
-  { "group": "ARID1A", "variable": "unknown", "value": null },
-
   { "group": "PTCH2", "variable": "likely_benign", "value": 0.1004 },
-  { "group": "PTCH2", "variable": "likely_pathogenic", "value": null },
-  { "group": "PTCH2", "variable": "ambiguous", "value": null },
-  { "group": "PTCH2", "variable": "unknown", "value": null },
-
   { "group": "MSH6", "variable": "likely_benign", "value": 0.3295 },
-  { "group": "MSH6", "variable": "likely_pathogenic", "value": null },
-  { "group": "MSH6", "variable": "ambiguous", "value": null },
-  { "group": "MSH6", "variable": "unknown", "value": null },
-
-  { "group": "IDH1", "variable": "likely_benign", "value": null },
   { "group": "IDH1", "variable": "likely_pathogenic", "value": 0.9805 },
-  { "group": "IDH1", "variable": "ambiguous", "value": null },
-  { "group": "IDH1", "variable": "unknown", "value": null },
-
   { "group": "D2HGDH", "variable": "likely_benign", "value": 0.0734 },
-  { "group": "D2HGDH", "variable": "likely_pathogenic", "value": null },
-  { "group": "D2HGDH", "variable": "ambiguous", "value": null },
-  { "group": "D2HGDH", "variable": "unknown", "value": null },
-
-  { "group": "CTNNB1", "variable": "likely_benign", "value": null },
   { "group": "CTNNB1", "variable": "likely_pathogenic", "value": 0.9984 },
-  { "group": "CTNNB1", "variable": "ambiguous", "value": null },
-  { "group": "CTNNB1", "variable": "unknown", "value": null },
-
-  { "group": "FGFR3", "variable": "likely_benign", "value": null },
   { "group": "FGFR3", "variable": "likely_pathogenic", "value": 0.9983 },
-  { "group": "FGFR3", "variable": "ambiguous", "value": null },
-  { "group": "FGFR3", "variable": "unknown", "value": null },
-
   { "group": "HTT", "variable": "likely_benign", "value": 0.0772 },
-  { "group": "HTT", "variable": "likely_pathogenic", "value": null },
-  { "group": "HTT", "variable": "ambiguous", "value": null },
-  { "group": "HTT", "variable": "unknown", "value": null },
-
   { "group": "PDGFRA", "variable": "likely_benign", "value": 0.0592 },
-  { "group": "PDGFRA", "variable": "likely_pathogenic", "value": null },
-  { "group": "PDGFRA", "variable": "ambiguous", "value": null },
-  { "group": "PDGFRA", "variable": "unknown", "value": null },
-
-  { "group": "MCC", "variable": "likely_benign", "value": null },
-  { "group": "MCC", "variable": "likely_pathogenic", "value": null },
-  { "group": "MCC", "variable": "ambiguous", "value": null },
   { "group": "MCC", "variable": "unknown", "value": 0.5 },
-
   { "group": "BRPF3", "variable": "likely_benign", "value": 0.0618 },
-  { "group": "BRPF3", "variable": "likely_pathogenic", "value": null },
-  { "group": "BRPF3", "variable": "ambiguous", "value": null },
-  { "group": "BRPF3", "variable": "unknown", "value": null },
-
-  { "group": "ARID1B", "variable": "likely_benign", "value": null },
-  { "group": "ARID1B", "variable": "likely_pathogenic", "value": null },
   { "group": "ARID1B", "variable": "ambiguous", "value": 0.488 },
-  { "group": "ARID1B", "variable": "unknown", "value": null },
-
   { "group": "MET", "variable": "likely_benign", "value": 0.0759 },
-  { "group": "MET", "variable": "likely_pathogenic", "value": null },
-  { "group": "MET", "variable": "ambiguous", "value": null },
-  { "group": "MET", "variable": "unknown", "value": null },
-
-  { "group": "SMO", "variable": "likely_benign", "value": null },
   { "group": "SMO", "variable": "likely_pathogenic", "value": 0.9897 },
-  { "group": "SMO", "variable": "ambiguous", "value": null },
-  { "group": "SMO", "variable": "unknown", "value": null },
-
   { "group": "MYC", "variable": "likely_benign", "value": 0.0717 },
-  { "group": "MYC", "variable": "likely_pathogenic", "value": null },
-  { "group": "MYC", "variable": "ambiguous", "value": null },
-  { "group": "MYC", "variable": "unknown", "value": null },
-
-  { "group": "LURAP1L", "variable": "likely_benign", "value": null },
-  { "group": "LURAP1L", "variable": "likely_pathogenic", "value": null },
-  { "group": "LURAP1L", "variable": "ambiguous", "value": null },
   { "group": "LURAP1L", "variable": "unknown", "value": 0.5 },
-
   { "group": "NTRK2", "variable": "likely_benign", "value": 0.1145 },
-  { "group": "NTRK2", "variable": "likely_pathogenic", "value": null },
-  { "group": "NTRK2", "variable": "ambiguous", "value": null },
-  { "group": "NTRK2", "variable": "unknown", "value": null },
-
   { "group": "PTCH1", "variable": "likely_benign", "value": 0.1274 },
-  { "group": "PTCH1", "variable": "likely_pathogenic", "value": null },
-  { "group": "PTCH1", "variable": "ambiguous", "value": null },
-  { "group": "PTCH1", "variable": "unknown", "value": null },
-
-  { "group": "KLF4", "variable": "likely_benign", "value": null },
-  { "group": "KLF4", "variable": "likely_pathogenic", "value": null },
-  { "group": "KLF4", "variable": "ambiguous", "value": null },
   { "group": "KLF4", "variable": "unknown", "value": 0.5 },
-
   { "group": "TSC1", "variable": "likely_benign", "value": 0.1309 },
-  { "group": "TSC1", "variable": "likely_pathogenic", "value": null },
-  { "group": "TSC1", "variable": "ambiguous", "value": null },
-  { "group": "TSC1", "variable": "unknown", "value": null },
-
   { "group": "NOTCH1", "variable": "likely_benign", "value": 0.2977 },
-  { "group": "NOTCH1", "variable": "likely_pathogenic", "value": null },
-  { "group": "NOTCH1", "variable": "ambiguous", "value": null },
-  { "group": "NOTCH1", "variable": "unknown", "value": null },
-
-  { "group": "FGFR2", "variable": "likely_benign", "value": null },
-  { "group": "FGFR2", "variable": "likely_pathogenic", "value": null },
   { "group": "FGFR2", "variable": "ambiguous", "value": 0.4708 },
-  { "group": "FGFR2", "variable": "unknown", "value": null },
-
   { "group": "ZFTA", "variable": "likely_benign", "value": 0.1217 },
-  { "group": "ZFTA", "variable": "likely_pathogenic", "value": null },
-  { "group": "ZFTA", "variable": "ambiguous", "value": null },
-  { "group": "ZFTA", "variable": "unknown", "value": null },
-
-  { "group": "KMT2D", "variable": "likely_benign", "value": null },
   { "group": "KMT2D", "variable": "likely_pathogenic", "value": 0.7303 },
-  { "group": "KMT2D", "variable": "ambiguous", "value": null },
-  { "group": "KMT2D", "variable": "unknown", "value": null },
-
-  { "group": "SMARCD1", "variable": "likely_benign", "value": null },
-  { "group": "SMARCD1", "variable": "likely_pathogenic", "value": null },
   { "group": "SMARCD1", "variable": "ambiguous", "value": 0.3929 },
-  { "group": "SMARCD1", "variable": "unknown", "value": null },
-
-  { "group": "PHLDA1", "variable": "likely_benign", "value": null },
-  { "group": "PHLDA1", "variable": "likely_pathogenic", "value": null },
-  { "group": "PHLDA1", "variable": "ambiguous", "value": null },
   { "group": "PHLDA1", "variable": "unknown", "value": 0.5 },
-
-  { "group": "ATXN2", "variable": "likely_benign", "value": null },
-  { "group": "ATXN2", "variable": "likely_pathogenic", "value": null },
-  { "group": "ATXN2", "variable": "ambiguous", "value": null },
   { "group": "ATXN2", "variable": "unknown", "value": 0.5 },
-
-  { "group": "HNF1A", "variable": "likely_benign", "value": null },
-  { "group": "HNF1A", "variable": "likely_pathogenic", "value": null },
-  { "group": "HNF1A", "variable": "ambiguous", "value": null },
   { "group": "HNF1A", "variable": "unknown", "value": 0.5 },
-
   { "group": "BRCA2", "variable": "likely_benign", "value": 0.0626 },
-  { "group": "BRCA2", "variable": "likely_pathogenic", "value": null },
-  { "group": "BRCA2", "variable": "ambiguous", "value": null },
-  { "group": "BRCA2", "variable": "unknown", "value": null },
-
   { "group": "RB1", "variable": "likely_benign", "value": 0.0768 },
-  { "group": "RB1", "variable": "likely_pathogenic", "value": null },
-  { "group": "RB1", "variable": "ambiguous", "value": null },
-  { "group": "RB1", "variable": "unknown", "value": null },
-
   { "group": "DICER1", "variable": "likely_benign", "value": 0.1116 },
-  { "group": "DICER1", "variable": "likely_pathogenic", "value": null },
-  { "group": "DICER1", "variable": "ambiguous", "value": null },
-  { "group": "DICER1", "variable": "unknown", "value": null },
-
   { "group": "TSC2", "variable": "likely_benign", "value": 0.0794 },
-  { "group": "TSC2", "variable": "likely_pathogenic", "value": null },
-  { "group": "TSC2", "variable": "ambiguous", "value": null },
-  { "group": "TSC2", "variable": "unknown", "value": null },
-
-  { "group": "CREBBP", "variable": "likely_benign", "value": null },
-  { "group": "CREBBP", "variable": "likely_pathogenic", "value": null },
   { "group": "CREBBP", "variable": "ambiguous", "value": 0.3997 },
-  { "group": "CREBBP", "variable": "unknown", "value": null },
-
-  { "group": "GSE1", "variable": "likely_benign", "value": null },
-  { "group": "GSE1", "variable": "likely_pathogenic", "value": null },
-  { "group": "GSE1", "variable": "ambiguous", "value": null },
   { "group": "GSE1", "variable": "unknown", "value": 0.5 },
-
   { "group": "TP53", "variable": "likely_benign", "value": 0.0724 },
-  { "group": "TP53", "variable": "likely_pathogenic", "value": null },
-  { "group": "TP53", "variable": "ambiguous", "value": null },
-  { "group": "TP53", "variable": "unknown", "value": null },
-
   { "group": "NF1", "variable": "likely_benign", "value": 0.1112 },
-  { "group": "NF1", "variable": "likely_pathogenic", "value": null },
-  { "group": "NF1", "variable": "ambiguous", "value": null },
-  { "group": "NF1", "variable": "unknown", "value": null },
-
-  { "group": "PPM1D", "variable": "likely_benign", "value": null },
   { "group": "PPM1D", "variable": "likely_pathogenic", "value": 0.9929 },
-  { "group": "PPM1D", "variable": "ambiguous", "value": null },
-  { "group": "PPM1D", "variable": "unknown", "value": null },
-
   { "group": "SMARCA4", "variable": "likely_benign", "value": 0.077 },
-  { "group": "SMARCA4", "variable": "likely_pathogenic", "value": null },
-  { "group": "SMARCA4", "variable": "ambiguous", "value": null },
-  { "group": "SMARCA4", "variable": "unknown", "value": null },
-
   { "group": "NOTCH3", "variable": "likely_benign", "value": 0.1792 },
-  { "group": "NOTCH3", "variable": "likely_pathogenic", "value": null },
-  { "group": "NOTCH3", "variable": "ambiguous", "value": null },
-  { "group": "NOTCH3", "variable": "unknown", "value": null },
-
-  { "group": "LZTR1", "variable": "likely_benign", "value": null },
-  { "group": "LZTR1", "variable": "likely_pathogenic", "value": null },
   { "group": "LZTR1", "variable": "ambiguous", "value": 0.4107 },
-  { "group": "LZTR1", "variable": "unknown", "value": null },
-
-  { "group": "DDX3X", "variable": "likely_benign", "value": null },
   { "group": "DDX3X", "variable": "likely_pathogenic", "value": 0.5753 },
-  { "group": "DDX3X", "variable": "ambiguous", "value": null },
-  { "group": "DDX3X", "variable": "unknown", "value": null },
-
-  { "group": "ATRX", "variable": "likely_benign", "value": 0.273 },
-  { "group": "ATRX", "variable": "likely_pathogenic", "value": null },
-  { "group": "ATRX", "variable": "ambiguous", "value": null },
-  { "group": "ATRX", "variable": "unknown", "value": null }
+  { "group": "ATRX", "variable": "likely_benign", "value": 0.273 }
 ]
